@@ -218,3 +218,4 @@ have contributed since open sourcing in late 2012.
 Spotify's Data Team maintains Luigi.
 
 .. scan-test H2
+.. scan-test E2-1
