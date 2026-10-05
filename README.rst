@@ -219,3 +219,4 @@ Spotify's Data Team maintains Luigi.
 
 .. scan-test H2
 .. scan-test E2-1
+.. scan-test E2-2
